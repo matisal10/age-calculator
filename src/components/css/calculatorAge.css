@@ -1,0 +1,30 @@
+.containerAge{
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 600px;
+    margin-left: 25px;
+}
+
+h3{
+    color: #864cff;
+    font-size: 80px;
+    margin: unset;
+    height: 100px;
+    transition: transform 0.5s ease-in-out;
+}
+
+span{
+    color: black;
+}
+
+
+@media (max-width: 610px){
+    .containerAge{
+        width: 90vw;
+    }
+    h3{
+        font-size: 50px;
+    }
+}

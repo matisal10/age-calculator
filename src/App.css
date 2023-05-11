@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -34,5 +42,12 @@
   }
   to {
     transform: rotate(360deg);
+  }
+}
+
+@media (max-width: 610px){
+  .container{
+    /* margin: 2px; */
+    justify-content: normal;
   }
 }
