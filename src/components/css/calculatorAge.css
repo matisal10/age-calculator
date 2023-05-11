@@ -4,7 +4,7 @@
     justify-content: space-between;
     flex-direction: column;
     width: 600px;
-    margin-left: 25px;
+    padding-left: 86px;
 }
 
 h3{
@@ -23,6 +23,8 @@ span{
 @media (max-width: 610px){
     .containerAge{
         width: 90vw;
+        padding-left: 25px;
+        padding-top: 20px;
     }
     h3{
         font-size: 50px;

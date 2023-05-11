@@ -94,10 +94,10 @@ export default function AgeForm() {
                         </div>
                         <div className='buttonContainer'>
                             <div className='line'>
-                                <hr style={{ borderBottom: '1px solid gray;' }}></hr>
+                                <hr ></hr>
                             </div>
                             <button type="submit" className=''>
-                                <img style={{marginTop:'15px'}} src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAo0lEQVR4nO2TMQ6DMAxFuQQR3P8mdKKUBYYe51VRM6URxLEjIZonMQX7xZjfdY3G7QEm4AU4g14OWIFHzstPvuwaeZD6Hp45p6AHtlDwBsYCadxjKC0cq0s1crW0RG4mlchNpCTiFP2hu/BMFycSAsGF5hyxZDrxVyjea3T2s1OLOLmTiZbw6Cf9zzgpd24nPZJXl0rjVAVO4lRb7lJxajQuwQdpOdhjIFDWzQAAAABJRU5ErkJggg=="/>
+                                <img style={{marginTop:'15px'}} alt='arrowDown' src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAo0lEQVR4nO2TMQ6DMAxFuQQR3P8mdKKUBYYe51VRM6URxLEjIZonMQX7xZjfdY3G7QEm4AU4g14OWIFHzstPvuwaeZD6Hp45p6AHtlDwBsYCadxjKC0cq0s1crW0RG4mlchNpCTiFP2hu/BMFycSAsGF5hyxZDrxVyjea3T2s1OLOLmTiZbw6Cf9zzgpd24nPZJXl0rjVAVO4lRb7lJxajQuwQdpOdhjIFDWzQAAAABJRU5ErkJggg=="/>
                             </button>
 
                         </div>
