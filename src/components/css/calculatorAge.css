@@ -1,6 +1,6 @@
 .containerAge{
     display: flex;
-    align-items: start;
+    align-items: flex-start;
     justify-content: space-between;
     flex-direction: column;
     width: 600px;
